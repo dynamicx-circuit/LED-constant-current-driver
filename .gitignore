@@ -1,0 +1,7 @@
+LED_ConstantCurrentDriver-backups/
+
+*.kicad_prl
+*.pdf
+*.zip
+
+fp-info-cache
